@@ -5,7 +5,9 @@ teaser: "A fixed price based on an outcome sought – typically high level busin
 <br/><br/>
 A project inception will be used to clarify business goals create an initial backlog. The body of work will then be matured and estimated. A team of agile experts including a coach will be assigned to deliver the project. 
 <br/><br/>
-Frequent reviews of the solution and prioritise will take place. A business stakeholder will work closely with the team and be in charge of setting priorities and verifying functionality."
+Frequent reviews of the solution and prioritise will take place. A business stakeholder will work closely with the team and be in charge of setting priorities and verifying functionality.
+<br/><br/>
+[1] The approach is set up to focus on return on investment"
 permalink: "/delivery/"
 header:
     image: header_delivery.jpg
