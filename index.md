@@ -7,7 +7,7 @@
 layout: frontpage
 title: "eVolve Agility – tag line goes here!"
 header:
-   image_fullwidth: "header_underwater.jpg"
+   image_fullwidth: "header_underwater_dark.jpg"
 widget-1:
     title: "Inception"
     url: '#'
