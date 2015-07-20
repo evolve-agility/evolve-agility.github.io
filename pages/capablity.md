@@ -21,7 +21,7 @@ This approach is best suited for medium to large organizations with an existing 
 
 ##Benefits
 
-The main benefit will be access to skilled professionals who have an in-depth knowledge of agile practices and implementation at various organisations across different sectors.
+The main benefit will be access to skilled professionals, who have an in-depth knowledge of agile practices and implementation at various organisations across different sectors.
 
 Recommendations will be provided to allow the business to proceed most effectively. These will recommendations will be current and provided details for adopting agile knowledge, skills and values. 
 
@@ -40,6 +40,6 @@ A series of activities will be conducted. Such as:
 
 ##Outcome
 
-A comprehensive report will be provided with an accompanying slide deck, which will outline proposed interventions and indicative timeframes.
+A comprehensive report will be provided, with an accompanying slide deck which will outline proposed interventions and indicative timeframes.
 
-The report will highlight which areas are should be focused on and preliminary options. The results will be based on actionable metrics improvements realized can be analyzed and reported.
+The report will highlight which areas are should be focused on and preliminary options. The results will be based on actionable metrics so improvements realized can be analyzed and reported.
