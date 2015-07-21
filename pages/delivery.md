@@ -57,7 +57,7 @@ Low risk;
 
 Simple projects where the requires and technology is clearly understood;
 Complex integration scenarios [2]; 
-Fire and forgot projects;
+Fire and forgot projects - where close business involvement in not desirable.
 
 ## Critical Success Factors
 
@@ -67,4 +67,4 @@ Self-empowered delivery team; adequate technical capabilities and support; avail
 
 [1] The approach is set up to focus on return on investment
 
-[2] Agile practices can be used along with more details upfront planning to manage dependencies. Extra contingencies are likely to be required.
+[2] Agile practices can be used along with more detailed upfront planning to manage dependencies. Extra contingencies are likely to be required.
