@@ -16,12 +16,12 @@ widget-1:
 widget-2:
     title: "Capablity"
     url: 'capability/'
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed felis ac dui elementum varius. Nullam fringilla elementum urna, sed blandit ligula. Donec nec sapien in nulla tincidunt molestie elementum sit amet tellus. Vestibulum accumsan massa id blandit sollicitudin.'
+    text: 'Looking to improve agility within your organization?'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Delivery"
     url: 'delivery/'
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed felis ac dui elementum varius. Nullam fringilla elementum urna, sed blandit ligula. Donec nec sapien in nulla tincidunt molestie elementum sit amet tellus. Vestibulum accumsan massa id blandit sollicitudin.'
+    text: 'Agile project delivery. Team augmentation or fixed price delivery'
     image: github-303x182.jpg
 ---
 
