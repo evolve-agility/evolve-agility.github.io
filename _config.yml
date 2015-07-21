@@ -12,7 +12,7 @@ title: "eVolve Agility"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Tag line goes here..."
+slogan: "Set your ideas free..."
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -87,7 +87,7 @@ defaults:
       show_meta: false 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "eVovle Team"
   -
     scope:
       path: ""        
@@ -96,7 +96,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "eVovle Team"
 
 
 
