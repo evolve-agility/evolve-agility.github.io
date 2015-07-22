@@ -14,7 +14,6 @@ Getting an agile inception right is the best way to set up a project for success
 
 They're more bang for your buck than any other way of starting a project. Just as agile software development encourages continuous improvement, they get better every time they're run, and as a result, not only are they useful and interesting; they're fun!
 
-
 ## When is it Appropriate?
 
 * To prepare prospective team members, product owners and sponsor to fully contribute to an imminent agile delivery project.
@@ -30,25 +29,25 @@ A solid foundation for project success as the team are socialised, energised, an
 
 Superior projection of delivery timeframes.
 
-## Comments
+## Example Agenda
 
-Introductions
-Why are we here? (Vision)
-Yes/No List (Scope)	
-Roles & Goals	
-Prioritisation
-Approach and Agenda	Training
-Change
-Documentation
-As Is/To Be (Process)
-Estimation (Comparative size-based)
-Non-functional requirements	
-What is a User Story (Agile Requirements)
-Projecting Velocity (how quickly can we proceed)
-Your project community (Stakeholders)	
-What keeps us up at night (Risks)	
-Write User Stories	
-Release Planning
+1. Introductions
+1. Why are we here? (Vision)
+1. Yes/No List (Scope)	
+1. Roles & Goals	
+1. Prioritisation
+1. Approach and Agenda	Training
+1. Change
+1. Documentation
+1. As Is/To Be (Process)
+1. Estimation (Comparative size-based)
+1. Non-functional requirements	
+1. What is a User Story (Agile Requirements)
+1. Projecting Velocity (how quickly can we proceed)
+1. Your project community (Stakeholders)	
+1. What keeps us up at night (Risks)	
+1. Write User Stories	
+1. Release Planning
 
 
 
