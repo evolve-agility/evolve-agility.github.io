@@ -6,7 +6,7 @@ teaser: "Pre-built solutions to fit your business.
 Where registered clients can access pre-built eVolve solutions at no cost. For more information on how to reuse these in your own business, just contact us."
 permalink: "/capability/"
 header:
-    image: header_team.jpg
+    image: header_typewriter.jpg
     pattern: pattern_concrete.jpg
 tags: assesment
 ---
