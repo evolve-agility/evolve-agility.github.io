@@ -13,6 +13,10 @@
    - title: "Delivery"
      url: "/delivery/"
 
+- title: Marketplace
+  url: "/marketplace/"
+  side: left   
+
 - title: About
   url: "/about/"
   side: left    
