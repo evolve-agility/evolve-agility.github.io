@@ -12,6 +12,7 @@ header:
 
 Getting an agile inception right is the best way to set up a project for success. It helps everyone to understand *why* we are here. This is core to framing the *what* and *when* parts of the project as well.
 
+They're more bang for your buck than any other way of starting a project. Just as agile software development encourages continuous improvement, they get better every time they're run, and as a result, not only are they useful and interesting; they're fun!
 
 
 ## When is it Appropriate?
