@@ -8,6 +8,12 @@ header:
     pattern: pattern_concrete.jpg
 ---
 
+## Why?
+
+Getting an agile inception right is the best way to set up a project for success. It helps everyone to understand *why* we are here. This is core to framing the *what* and *when* parts of the project as well.
+
+
+
 ## When is it Appropriate?
 
 * To prepare prospective team members, product owners and sponsor to fully contribute to an imminent agile delivery project.
@@ -26,6 +32,7 @@ Superior projection of delivery timeframes.
 ## Comments
 
 Introductions
+Why are we here? (Vision)
 Yes/No List (Scope)	
 Roles & Goals	
 Prioritisation
@@ -34,7 +41,6 @@ Change
 Documentation
 As Is/To Be (Process)
 Estimation (Comparative size-based)
-Why are we here? (Vision)
 Non-functional requirements	
 What is a User Story (Agile Requirements)
 Projecting Velocity (how quickly can we proceed)
